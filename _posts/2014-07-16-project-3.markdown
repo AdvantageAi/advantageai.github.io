@@ -1,0 +1,15 @@
+---
+title: Targeting Key People
+subtitle: Network Analysis
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: Social_Network_Analysis_Visualization.png
+thumbnail: Social_Network_Analysis_Visualization-thumbnail.jpg
+alt: image-alt
+project-date:
+client:
+category: Data Science
+description: Used graph theory to identify key contacts in social network.
+
+---
