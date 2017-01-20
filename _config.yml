@@ -1,8 +1,8 @@
 url: http://advantageai.com
-baseurl: 
+baseurl:
 
 # Site settings
-title: Advantage Ai
+title: Advantage AI
 email: kelly@adavantageai.com
 description: "Advantage Ai provides consulting in data science, machine learning, spark, and artificial intelligence. Based in Sweden and operating in Europe."
 
@@ -11,7 +11,7 @@ description: "Advantage Ai provides consulting in data science, machine learning
 people:
 - name: Kelly Hubble
   pic: 1
-  position: Data Scientist 
+  position: Data Scientist
   social:
     - title: twitter
       url: #
@@ -29,7 +29,7 @@ social:
     url:
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
+  - title: bitbucket
     url: http://bitbucket.org/jekyll
   - title: github
     url: http://github.com/jekyll
@@ -42,3 +42,11 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+# Joacim
+gems:
+- jekyll-github-metadata
+- jekyll-mentions
+- jekyll-redirect-from
+- jekyll-sitemap
+- jemoji

@@ -10,6 +10,6 @@ alt: image-alt
 project-date: Nov 2015
 client: Classified
 category: Machine Learning
-description: We build models to determine which customers would (or wouldn't) pay invoices on time. By using machine learning techniques, we were able to surpass the accuracy of the current models by over 15%. We help our customer determine they did not need to buy more data to improve their results.
+description: We built models to determine which customers would (or wouldn't) pay their invoices on time. By using machine learning techniques, we were able to surpass the accuracy of the current models by over 15%. We helped our customer determine that they did not need to buy more data to improve their results.
 
 ---

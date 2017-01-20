@@ -10,6 +10,6 @@ alt: image-alt
 project-date: 2015
 client: Classified
 category: Data Science
-description: Used graph theory to identify key contacts in social network. Allow the customer to focus energy on communicating with the right people.
+description: Used graph theory to identify key contacts in social networks, allowing the customer to focus their energy on communicating with the right people.
 
 ---
