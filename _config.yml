@@ -43,10 +43,3 @@ address:
 markdown: kramdown
 permalink: pretty
 
-# Joacim
-gems:
-- jekyll-github-metadata
-- jekyll-mentions
-- jekyll-redirect-from
-- jekyll-sitemap
-- jemoji
