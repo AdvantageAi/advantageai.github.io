@@ -1,0 +1,14 @@
+---
+title: Remote Team Lead
+subtitle: Big Data
+layout: default
+modal-id: 3
+date: 2017-05-11
+img: Tensorflow_logo.svg
+thumbnail: Tensorflow_logo_thumb.svg
+alt: image-alt
+project-date: 2015-2016
+client: Classified
+category: Big Data
+description: Led a 3 person scala data team to build a messaged based big data system on the google cloud infrastructure. The system needed to support current and future machine learning with Tensorflow. Along with designing the system, AdvAi provided sprint planning and daily stand-ups (via video conferencing). One of the exciting challenges of this project was to get the system to work along side existing infrastructure and eventually replace parts of a monolithic system.
+---
