@@ -1,0 +1,14 @@
+---
+title: Acting CTO
+subtitle: Startup leadship direction
+layout: default
+modal-id: 4
+date: 2018-01-13
+img: 
+thumbnail: 
+alt: image-alt
+project-date: 2017-2018
+client: Classified
+category: Leadership
+description: Developed a working process for the development team in order to focus on matching the needs and expectations of the business stakeholders. Development team included both app/frontend teams and backend teams, during the change of working style we were also able to deliverer a complete redesign of apps.
+---
