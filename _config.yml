@@ -45,3 +45,7 @@ permalink: pretty
 
 plugins:
   - jekyll-google-tag-manger
+
+google:
+  tag_manager:
+    container_id: GTM-K99TQ5X
