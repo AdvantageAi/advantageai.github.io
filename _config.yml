@@ -43,3 +43,5 @@ address:
 markdown: kramdown
 permalink: pretty
 
+plugins:
+  - jekyll-google-tag-manger
