@@ -5,7 +5,9 @@
 
 
     <body id="page-top" class="index">
-    {% gtm body %}
+    {% if site.google.tag_manager.container_id %}
+      {% include gtm-body.html %}
+    {% endif %}
     {% include header.html %}
     {% include services.html %}
     {% include portfolio_grid.html %}
