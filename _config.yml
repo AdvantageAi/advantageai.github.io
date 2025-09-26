@@ -4,22 +4,9 @@ baseurl:
 # Site settings
 title: Advantage AI
 email: sales@advantageai.com
-description: "Advantage Ai provides consulting in data science, machine learning, spark, and artificial intelligence. Based in Sweden and operating in Europe."
+description: "Advantage Ai provides consulting in data science, machine learning, spark, and artificial intelligence."
 
-# Team names, titles and social links
-people:
-- name: Kelly Hubble
-  pic: 1
-  position: Data Scientist
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-
+# Example fields not used: 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
@@ -35,8 +22,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Stockholm o Uppsala
-  - line: Sweden
+  - line: Remote
+  - line: Globally
 
 # Build settings
 markdown: kramdown
