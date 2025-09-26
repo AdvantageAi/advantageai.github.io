@@ -29,9 +29,11 @@ address:
 markdown: kramdown
 permalink: pretty
 
-plugins:
-  - jekyll-google-tag-manger
+#plugins:
+#  - jekyll-google-tag-manger
 
 google:
   tag_manager:
     container_id: GTM-TVXN4GD6
+
+# End Build settings
