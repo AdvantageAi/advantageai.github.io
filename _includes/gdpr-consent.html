@@ -1,0 +1,12 @@
+<!-- GDPR Consent Management - Load CSS and JS -->
+<link rel="stylesheet" href="{{ '/css/cookie-banner.css' | relative_url }}">
+<script src="{{ '/js/gdpr-consent.js' | relative_url }}"></script>
+
+<!-- Initialize GDPR consent system -->
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    {% if site.google.tag_manager.container_id %}
+      AdvantageAI.consent.init('{{ site.google.tag_manager.container_id }}');
+    {% endif %}
+  });
+</script>

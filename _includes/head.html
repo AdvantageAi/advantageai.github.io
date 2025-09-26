@@ -6,6 +6,8 @@
     <meta name="description" content="{{ site.description }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
+    {% include gdpr-consent.html %}
+
     {% if site.google.tag_manager.container_id %}
         {% include gtm-head.html %}
     {% endif %}
